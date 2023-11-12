@@ -6,4 +6,4 @@ Are you tired of this message?
 ----------------------------------------------------------------------------------------------------------
 FreeMasonryCrypter will solve that problem
 ------------------------------------------
-![image](https://github.com/876N/FreeMasonryCrypter/assets/133999409/0623cbd8-3f2f-49b1-8044-11dea93e7216)
+![image](https://github.com/876N/FreeMasonryCrypter/assets/133999409/32f561e3-5d41-4e4e-92c8-8960b93fb0d0)
