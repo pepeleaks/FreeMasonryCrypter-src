@@ -1,4 +1,5 @@
 # FreeMasonryCrypter
+# this guy is scammer so i posted his tool deobfuscated + clean without malwares
 --------------------
 Are you tired of this message?
 ---------------------------------
